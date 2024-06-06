@@ -25,4 +25,5 @@ Model evaluation:
 
                   Confusion matrix
 
+                  Classification report
 
