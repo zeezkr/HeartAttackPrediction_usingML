@@ -5,7 +5,7 @@ This dataset contain some medical information of patients which tells whether th
 
 Using the information explore the dataset and classify the target variable using different Machine Learning models and findout the accuracy and which algorithm suitable for this dataset.
 
-This dataset has 303 rows and 14 features.
+This dataset has 303 rows and 14 features.The data type of all features are numeric.
 
 steps:
 
