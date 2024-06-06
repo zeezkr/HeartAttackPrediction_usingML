@@ -11,18 +11,18 @@ steps:
 
 Data preprocessing:
 
-Remove the duplicate row
+                  Remove the duplicate row
 
-Apply Feature scaling type Standardization
+                  Apply Feature scaling type Standardization
 
 Model selection and Training:
 
-LogisticRegression
+                  LogisticRegression
 
-Naive Bayes Classifier
+                  Naive Bayes Classifier
 
 Model evaluation:
 
-Confusion matrix
+                  Confusion matrix
 
 
