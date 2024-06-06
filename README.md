@@ -8,14 +8,17 @@ Using the information explore the dataset and classify the target variable using
 This dataset has 303 rows and 14 features.
 
 steps:
+
 Data preprocessing:
 
 Remove the duplicate row
+
 Apply Feature scaling type Standardization
 
 Model selection and Training:
 
 LogisticRegression
+
 Naive Bayes Classifier
 
 Model evaluation:
